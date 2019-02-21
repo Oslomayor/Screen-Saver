@@ -1,7 +1,8 @@
 # Screen-Saver
-自定义桌面屏保程序
+自定义桌面屏幕保护程序
 
 ## 1. 效果
+截了一个静态图，实际上是动态的，文字撞墙会反弹
 ![](https://github.com/Oslomayor/Markdown-Imglib/blob/master/Imgs/ScreenSaver.png)  
 
 ## 2. 运行
